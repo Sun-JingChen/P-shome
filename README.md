@@ -1,4 +1,1 @@
-# P-shome
-Hello everybody!
-This is a newbie, but I wanna be excellent.
-2020.02.05 link start
+人工智能五子棋，极大极小搜索、alpha-beta剪枝实现，包括禁手规则。
